@@ -1,2 +1,0 @@
-# LeLab
-Programmes python
